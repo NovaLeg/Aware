@@ -1,3 +1,1 @@
-# Aware With Database Files
-Credits
-@githubpages
+# Source code for the fastest Antinuke bot
